@@ -25,7 +25,7 @@ $Website_MainColor = false;
 // Select which settings you want in the menu.
 $Website_Settings = [
     'language' => false,  // user can select his own language.
-    'theme' => true      // user can change his own color theme.
+    'theme' => false      // user can change his own color theme.
 ];
 
 // Write here your steam api key, get one from here: https://steamcommunity.com/dev/apikey.
