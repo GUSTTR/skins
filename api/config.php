@@ -7,11 +7,11 @@ $Website_Translate = 'en';
 // If you store your website on a subfolder domain,
 // Leave empty if using the domain as normal.
 // Example: cs2.lielxd.com/cs2/ | then we need here cs2 ↓
-$Website_Subfolder = '';
+$Website_Subfolder = 'api';
 
 // Place here your domain if steam authorize not working properly,
 // if its working good then leave it empty.
-$Website_Domain = 'https://skins-ten.vercel.app/';
+$Website_Domain = 'https://skins-ten.vercel.app';
 
 // Enable this if you want categories else it will display all weapons.
 $Website_UseCategories = true;
